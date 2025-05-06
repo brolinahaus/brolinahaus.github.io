@@ -1,9 +1,9 @@
 # BrolinaHaus Website
 
-Ini adalah halaman statis untuk situs **BrolinaHaus**, dihosting menggunakan GitHub Pages.
+Ini adalah halaman statis untuk situs **brolinahaus**, dihosting menggunakan GitHub Pages.
 
 ## Struktur Proyek
-- `index.html` — Halaman utama (asalnya dari `brolinahaus.html`)
+- `index.html`
 - `style.css` — File CSS untuk tampilan dasar
 - `script.js` — JavaScript sederhana
 - `README.md` — Informasi tentang proyek
